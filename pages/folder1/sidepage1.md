@@ -1,6 +1,6 @@
 ---
 layout: left-menu
-title: Folder 1 Index page
+title: Side Page 1
 order: 1
 category: Side Menu
 ---
