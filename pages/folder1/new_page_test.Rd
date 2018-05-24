@@ -1,5 +1,7 @@
 ---
 layout: left-menu
-title: My New Page
+title: Hello
 order: 1
 ---
+
+Hello
